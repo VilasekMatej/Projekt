@@ -1,5 +1,6 @@
 body, bg-img{
     background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
 }
 main{
     color: rgb(7, 124, 225);
